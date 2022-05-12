@@ -21,10 +21,6 @@ As for the building matrix, we set the quantile for different building type and 
 
 Finally we calculate the loss table (EventLossTable.csv), EP curve, and annual accumulate loss (AAL).
 
-## More details
-
-You can find more info in our report.
-
 ## Contact us
 
 If you have any questions, just contact us :)
